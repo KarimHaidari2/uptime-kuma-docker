@@ -87,6 +87,3 @@ Karim Haidari
 University of Tulsa – CYB 3353
 Docker Project: Uptime Kuma Deployment
 
-🎉 Project Completed!
-
-Uptime Kuma is successfully deployed and working using Docker Compose.
